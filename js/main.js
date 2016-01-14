@@ -69,7 +69,7 @@ $(function() {
           .append($('<div class="map">')
             .append($('<div class="map-image">')
               .append('<h2>' + data[i].name + '</h2>')
-              .append('<img src="img/' + data[i].name.toLowerCase().replace(/\s+/g, '').replace(/[^a-zA-Z-]/g, '') + '.png" title="' + data[i].name + '">')
+              .append('<img src="img/' + data[i].name.toLowerCase().replace(/\s+/g, '').replace(/[^a-zA-Z-]/g, '') + '.jpg" title="' + data[i].name + '">')
             )
             //overall rotation graph
             .append('<div class="graph-name">Overall</div>')
