@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>SplatoonStats</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/main.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,700' rel='stylesheet' type='text/css'>
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js" charset="utf-8"></script>
+    <script src="js/d3.min.js" charset="utf-8"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="js/main.js" charset="utf-8"></script>
+
+  </head>
+  <body>
+
+    <!--Navigation-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><img alt="Brand" src="img/logo.png"></a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li><a href="faq.html">FAQ</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!--Content-->
+    <div class="container container-faq">
+      <div class="row">
+        <div class="col-xs-12 col-md-8">
+          <article>
+            <h2>Why?</h2>
+            <p>I was bored, I guess.</p>
+            <p>Nah, to be honest: since I run <a href="https://twitter.com/splatoonmaps" title="SplatoonMaps on Twitter">@splatoonmaps</a> I am sitting on a rather big archive of Splatoon Map rotation data and it would be a shame to do nothing with it. And after seeing
+            <a href="http://squidboards.com/members/rocketclauncher.733/" title="RocketClauncher on Squidboards">RocketClauncher</a> on Squidboards actually <a href="http://squidboards.com/threads/map-mode-frequency-for-october.12156/" title="RocketClauncher's data analysis on Squidboards">analyzing the Map data for October</a>
+            – big shoutouts to him – I decided to but the data out there. Because why not.</p>
+            <p>Also, I had a fun day working on it and learned a lot, sooooooo…</p>
+          </article>
+          <article>
+            <h2>How complete is the Map data?</h2>
+            <p>Okay, so here is the downer: I can only provide Map rotation data starting from August 7, 2015. Simply, because it was not possible to pull Ranked Battle map rotation from Splatoon before August 5 – the launch of <a href="http://splatoon.nintendo.net/">SplatNet</a>. I might add that missing data at a later point though.</p>
+            <p>Since then the bot should have gotten most of the Map rotations. Ohh, and maybe I should note: at the moment the data itself only includes statistics for Ranked Battle Map rotations. I might add data for Splatfests and Turf War Map rotations (I do not know if that is even interesting data) in the future.</p>
+          </article>
+          <article>
+            <h2>Can I use the Map data?</h2>
+            <p>Hell yes! If you have any cool ideas or just wanna tinker a bit, go ahead and dive right into it. Just download it from the <a href="https://github.com/splatoonmaps/splatoonmaps.github.io" title="Repository on GitHub">GitHub repository</a>
+              and start your own thing. But keep in mind that the provided JSON file is not updated in real time – at least for now. I will try
+              my best to update it at least every week.</p>
+          </article>
+          <article>
+            <h2>Dude…your code is a mess.</h2>
+            <p>I know, I know … I am by far not a coding professional. In the end I just wanted to get this thing running and it works, doesn't it?</p>
+          </article>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <!-- don't know what to put here -->
+        </div>
+      </div>
+    </div>
+
+    <!--Footer-->
+    <footer>
+      <div class="container container-content">
+        <p>Big shoutouts to <a href="http://squidboards.com/members/thefizzynator.7112/">theFIZZYnator</a> for his <a href="http://fizzystack.web.fc2.com/splatoon/en.html">Paintball font</a> & everyone in the Splatoon community. <span class="heart">♥</span></p>
+        <p>Splatoon and Wii U are trademarks of Nintendo.</p>
+        <p class="last-update"></p>
+      </div>
+    </footer>
+
+</body>
+</html>
