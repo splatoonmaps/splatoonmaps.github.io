@@ -89,7 +89,8 @@ a:hover{
 }
 
 .map h2, .container-faq h2{
-  font-family: Paintball;
+  font-family: Paintball, sans-serif;
+  font-weight: bold;
   color: rgb(230,230,230);
   text-shadow: 2px 2px 1px black, 3px 3px 0 rgb(170,220,0);
 }
