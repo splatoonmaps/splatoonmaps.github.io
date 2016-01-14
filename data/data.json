@@ -106,13 +106,13 @@
             "jan2016": 6
         },
         "rainmaker": {
-            "total": 26,
+            "total": 27,
             "aug2015": 11,
             "sep2015": 13,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 0,
-            "jan2016": 2
+            "jan2016": 3
         }
     },
     "Walleye Warehouse": {
@@ -280,13 +280,13 @@
             "jan2016": 3
         },
         "rainmaker": {
-            "total": 70,
+            "total": 71,
             "aug2015": 8,
             "sep2015": 15,
             "oct2015": 18,
             "nov2015": 14,
             "dec2015": 11,
-            "jan2016": 4
+            "jan2016": 5
         }
     },
     "Flounder Heights": {
@@ -463,5 +463,5 @@
             "jan2016": 0
         }
     },
-    "lastUpdate": "2016-01-14T20:29:42.021Z"
+    "lastUpdate": "2016-01-14T22:05:02.645Z"
 }
