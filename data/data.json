@@ -59,13 +59,13 @@
     },
     "Saltspray Rig": {
         "splatzones": {
-            "total": 86,
+            "total": 87,
             "aug2015": 14,
             "sep2015": 14,
             "oct2015": 25,
             "nov2015": 15,
             "dec2015": 13,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
             "total": 15,
@@ -117,13 +117,13 @@
     },
     "Walleye Warehouse": {
         "splatzones": {
-            "total": 68,
+            "total": 69,
             "aug2015": 10,
             "sep2015": 13,
             "oct2015": 12,
             "nov2015": 14,
             "dec2015": 12,
-            "jan2016": 7
+            "jan2016": 8
         },
         "towercontrol": {
             "total": 50,
@@ -204,13 +204,13 @@
     },
     "Bluefin Depot": {
         "splatzones": {
-            "total": 36,
+            "total": 37,
             "aug2015": 9,
             "sep2015": 11,
             "oct2015": 2,
             "nov2015": 4,
             "dec2015": 8,
-            "jan2016": 2
+            "jan2016": 3
         },
         "towercontrol": {
             "total": 53,
@@ -233,13 +233,13 @@
     },
     "Moray Towers": {
         "splatzones": {
-            "total": 54,
+            "total": 55,
             "aug2015": 11,
             "sep2015": 9,
             "oct2015": 9,
             "nov2015": 10,
             "dec2015": 11,
-            "jan2016": 4
+            "jan2016": 5
         },
         "towercontrol": {
             "total": 48,
@@ -358,13 +358,13 @@
             "jan2016": 6
         },
         "towercontrol": {
-            "total": 23,
+            "total": 24,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 10,
             "dec2015": 10,
-            "jan2016": 3
+            "jan2016": 4
         },
         "rainmaker": {
             "total": 17,
@@ -416,13 +416,13 @@
             "jan2016": 7
         },
         "towercontrol": {
-            "total": 8,
+            "total": 9,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 4,
-            "jan2016": 4
+            "jan2016": 5
         },
         "rainmaker": {
             "total": 7,
@@ -463,5 +463,5 @@
             "jan2016": 0
         }
     },
-    "lastUpdate": "2016-01-14T22:05:02.645Z"
+    "lastUpdate": "2016-01-15T11:17:08.038Z"
 }
