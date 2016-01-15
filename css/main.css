@@ -46,6 +46,7 @@ a:hover{
 
 .navbar-brand{
   margin-right: 20px;
+  height: 100%;
 }
 
 .nav-legend{
@@ -68,6 +69,23 @@ a:hover{
   opacity: 1;
 }
 
+.navbar-toggle{
+  border: none;
+  margin-top: 23px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background: none;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  border: none;
+}
+
+.navbar-collapse{
+  text-align: left;
+}
+
 /* Content */
 .container-faq{
   text-align: left;
@@ -85,7 +103,6 @@ a:hover{
   margin-bottom: 60px;
   border-radius: 10px;
   border: 1px solid rgba(255,255,255,.1);
-
 }
 
 .map h2, .container-faq h2{
