@@ -10,13 +10,13 @@
             "jan2016": 4
         },
         "towercontrol": {
-            "total": 55,
+            "total": 56,
             "aug2015": 8,
             "sep2015": 13,
             "oct2015": 8,
             "nov2015": 11,
             "dec2015": 10,
-            "jan2016": 5
+            "jan2016": 6
         },
         "rainmaker": {
             "total": 69,
@@ -30,13 +30,13 @@
     },
     "Port Mackerel": {
         "splatzones": {
-            "total": 54,
+            "total": 55,
             "aug2015": 10,
             "sep2015": 8,
             "oct2015": 17,
             "nov2015": 10,
             "dec2015": 6,
-            "jan2016": 3
+            "jan2016": 4
         },
         "towercontrol": {
             "total": 16,
@@ -135,13 +135,13 @@
             "jan2016": 3
         },
         "rainmaker": {
-            "total": 47,
+            "total": 48,
             "aug2015": 10,
             "sep2015": 0,
             "oct2015": 13,
             "nov2015": 13,
             "dec2015": 9,
-            "jan2016": 2
+            "jan2016": 3
         }
     },
     "Arowana Mall": {
@@ -175,13 +175,13 @@
     },
     "Kelp Dome": {
         "splatzones": {
-            "total": 64,
+            "total": 65,
             "aug2015": 7,
             "sep2015": 11,
             "oct2015": 11,
             "nov2015": 13,
             "dec2015": 15,
-            "jan2016": 7
+            "jan2016": 8
         },
         "towercontrol": {
             "total": 47,
@@ -213,13 +213,13 @@
             "jan2016": 3
         },
         "towercontrol": {
-            "total": 53,
+            "total": 54,
             "aug2015": 8,
             "sep2015": 6,
             "oct2015": 15,
             "nov2015": 12,
             "dec2015": 7,
-            "jan2016": 5
+            "jan2016": 6
         },
         "rainmaker": {
             "total": 51,
@@ -262,13 +262,13 @@
     },
     "Camp Triggerfish": {
         "splatzones": {
-            "total": 46,
+            "total": 47,
             "aug2015": 0,
             "sep2015": 8,
             "oct2015": 14,
             "nov2015": 10,
             "dec2015": 10,
-            "jan2016": 4
+            "jan2016": 5
         },
         "towercontrol": {
             "total": 33,
@@ -280,13 +280,13 @@
             "jan2016": 3
         },
         "rainmaker": {
-            "total": 71,
+            "total": 72,
             "aug2015": 8,
             "sep2015": 15,
             "oct2015": 18,
             "nov2015": 14,
             "dec2015": 11,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Flounder Heights": {
@@ -309,24 +309,24 @@
             "jan2016": 5
         },
         "rainmaker": {
-            "total": 79,
+            "total": 80,
             "aug2015": 9,
             "sep2015": 16,
             "oct2015": 21,
             "nov2015": 15,
             "dec2015": 13,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Hammerhead Bridge": {
         "splatzones": {
-            "total": 46,
+            "total": 47,
             "aug2015": 0,
             "sep2015": 6,
             "oct2015": 13,
             "nov2015": 14,
             "dec2015": 9,
-            "jan2016": 4
+            "jan2016": 5
         },
         "towercontrol": {
             "total": 52,
@@ -367,24 +367,24 @@
             "jan2016": 4
         },
         "rainmaker": {
-            "total": 17,
+            "total": 18,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 9,
             "dec2015": 6,
-            "jan2016": 2
+            "jan2016": 3
         }
     },
     "Mahi-Mahi Resort": {
         "splatzones": {
-            "total": 19,
+            "total": 20,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 15,
-            "jan2016": 4
+            "jan2016": 5
         },
         "towercontrol": {
             "total": 16,
@@ -407,13 +407,13 @@
     },
     "Piranha Pit": {
         "splatzones": {
-            "total": 13,
+            "total": 14,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 6,
-            "jan2016": 7
+            "jan2016": 8
         },
         "towercontrol": {
             "total": 9,
@@ -463,5 +463,5 @@
             "jan2016": 0
         }
     },
-    "lastUpdate": "2016-01-15T11:17:08.038Z"
+    "lastUpdate": "2016-01-16T11:18:52.508Z"
 }
