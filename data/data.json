@@ -19,13 +19,13 @@
             "jan2016": 6
         },
         "rainmaker": {
-            "total": 69,
+            "total": 70,
             "aug2015": 8,
             "sep2015": 12,
             "oct2015": 18,
             "nov2015": 17,
             "dec2015": 11,
-            "jan2016": 3
+            "jan2016": 4
         }
     },
     "Port Mackerel": {
@@ -88,22 +88,22 @@
     },
     "Blackbelly Skatepark": {
         "splatzones": {
-            "total": 56,
+            "total": 57,
             "aug2015": 7,
             "sep2015": 9,
             "oct2015": 11,
             "nov2015": 12,
             "dec2015": 12,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
-            "total": 65,
+            "total": 66,
             "aug2015": 7,
             "sep2015": 7,
             "oct2015": 19,
             "nov2015": 13,
             "dec2015": 13,
-            "jan2016": 6
+            "jan2016": 7
         },
         "rainmaker": {
             "total": 27,
@@ -242,13 +242,13 @@
             "jan2016": 5
         },
         "towercontrol": {
-            "total": 48,
+            "total": 49,
             "aug2015": 9,
             "sep2015": 7,
             "oct2015": 10,
             "nov2015": 11,
             "dec2015": 7,
-            "jan2016": 4
+            "jan2016": 5
         },
         "rainmaker": {
             "total": 44,
@@ -291,13 +291,13 @@
     },
     "Flounder Heights": {
         "splatzones": {
-            "total": 52,
+            "total": 53,
             "aug2015": 10,
             "sep2015": 12,
             "oct2015": 8,
             "nov2015": 9,
             "dec2015": 9,
-            "jan2016": 4
+            "jan2016": 5
         },
         "towercontrol": {
             "total": 46,
@@ -425,13 +425,13 @@
             "jan2016": 5
         },
         "rainmaker": {
-            "total": 7,
+            "total": 8,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 3,
-            "jan2016": 4
+            "jan2016": 5
         }
     },
     "Ancho-V Games": {
@@ -463,5 +463,5 @@
             "jan2016": 0
         }
     },
-    "lastUpdate": "2016-01-16T11:18:52.508Z"
+    "lastUpdate": "2016-01-16T23:07:31.829Z"
 }
