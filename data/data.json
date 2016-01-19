@@ -10,13 +10,13 @@
             "jan2016": 4
         },
         "towercontrol": {
-            "total": 56,
+            "total": 57,
             "aug2015": 8,
             "sep2015": 13,
             "oct2015": 8,
             "nov2015": 11,
             "dec2015": 10,
-            "jan2016": 6
+            "jan2016": 7
         },
         "rainmaker": {
             "total": 70,
@@ -48,24 +48,24 @@
             "jan2016": 0
         },
         "rainmaker": {
-            "total": 54,
+            "total": 55,
             "aug2015": 7,
             "sep2015": 13,
             "oct2015": 9,
             "nov2015": 11,
             "dec2015": 9,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Saltspray Rig": {
         "splatzones": {
-            "total": 87,
+            "total": 88,
             "aug2015": 14,
             "sep2015": 14,
             "oct2015": 25,
             "nov2015": 15,
             "dec2015": 13,
-            "jan2016": 6
+            "jan2016": 7
         },
         "towercontrol": {
             "total": 15,
@@ -77,13 +77,13 @@
             "jan2016": 0
         },
         "rainmaker": {
-            "total": 15,
+            "total": 16,
             "aug2015": 10,
             "sep2015": 1,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 2,
-            "jan2016": 2
+            "jan2016": 3
         }
     },
     "Blackbelly Skatepark": {
@@ -97,13 +97,13 @@
             "jan2016": 6
         },
         "towercontrol": {
-            "total": 66,
+            "total": 68,
             "aug2015": 7,
             "sep2015": 7,
             "oct2015": 19,
             "nov2015": 13,
             "dec2015": 13,
-            "jan2016": 7
+            "jan2016": 9
         },
         "rainmaker": {
             "total": 27,
@@ -117,31 +117,31 @@
     },
     "Walleye Warehouse": {
         "splatzones": {
-            "total": 69,
+            "total": 70,
             "aug2015": 10,
             "sep2015": 13,
             "oct2015": 12,
             "nov2015": 14,
             "dec2015": 12,
-            "jan2016": 8
+            "jan2016": 9
         },
         "towercontrol": {
-            "total": 51,
+            "total": 52,
             "aug2015": 5,
             "sep2015": 16,
             "oct2015": 6,
             "nov2015": 7,
             "dec2015": 13,
-            "jan2016": 4
+            "jan2016": 5
         },
         "rainmaker": {
-            "total": 48,
+            "total": 49,
             "aug2015": 10,
             "sep2015": 0,
             "oct2015": 13,
             "nov2015": 13,
             "dec2015": 9,
-            "jan2016": 3
+            "jan2016": 4
         }
     },
     "Arowana Mall": {
@@ -175,13 +175,13 @@
     },
     "Kelp Dome": {
         "splatzones": {
-            "total": 66,
+            "total": 67,
             "aug2015": 7,
             "sep2015": 11,
             "oct2015": 11,
             "nov2015": 13,
             "dec2015": 15,
-            "jan2016": 9
+            "jan2016": 10
         },
         "towercontrol": {
             "total": 48,
@@ -193,24 +193,24 @@
             "jan2016": 8
         },
         "rainmaker": {
-            "total": 46,
+            "total": 47,
             "aug2015": 6,
             "sep2015": 9,
             "oct2015": 17,
             "nov2015": 7,
             "dec2015": 3,
-            "jan2016": 4
+            "jan2016": 5
         }
     },
     "Bluefin Depot": {
         "splatzones": {
-            "total": 37,
+            "total": 38,
             "aug2015": 9,
             "sep2015": 11,
             "oct2015": 2,
             "nov2015": 4,
             "dec2015": 8,
-            "jan2016": 3
+            "jan2016": 4
         },
         "towercontrol": {
             "total": 54,
@@ -233,13 +233,13 @@
     },
     "Moray Towers": {
         "splatzones": {
-            "total": 55,
+            "total": 56,
             "aug2015": 11,
             "sep2015": 9,
             "oct2015": 9,
             "nov2015": 10,
             "dec2015": 11,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
             "total": 49,
@@ -262,13 +262,13 @@
     },
     "Camp Triggerfish": {
         "splatzones": {
-            "total": 47,
+            "total": 48,
             "aug2015": 0,
             "sep2015": 8,
             "oct2015": 14,
             "nov2015": 10,
             "dec2015": 10,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
             "total": 33,
@@ -280,13 +280,13 @@
             "jan2016": 3
         },
         "rainmaker": {
-            "total": 72,
+            "total": 73,
             "aug2015": 8,
             "sep2015": 15,
             "oct2015": 18,
             "nov2015": 14,
             "dec2015": 11,
-            "jan2016": 6
+            "jan2016": 7
         }
     },
     "Flounder Heights": {
@@ -300,33 +300,33 @@
             "jan2016": 5
         },
         "towercontrol": {
-            "total": 46,
+            "total": 47,
             "aug2015": 5,
             "sep2015": 11,
             "oct2015": 7,
             "nov2015": 9,
             "dec2015": 9,
-            "jan2016": 5
+            "jan2016": 6
         },
         "rainmaker": {
-            "total": 80,
+            "total": 81,
             "aug2015": 9,
             "sep2015": 16,
             "oct2015": 21,
             "nov2015": 15,
             "dec2015": 13,
-            "jan2016": 6
+            "jan2016": 7
         }
     },
     "Hammerhead Bridge": {
         "splatzones": {
-            "total": 47,
+            "total": 48,
             "aug2015": 0,
             "sep2015": 6,
             "oct2015": 13,
             "nov2015": 14,
             "dec2015": 9,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
             "total": 53,
@@ -349,13 +349,13 @@
     },
     "Museum d'Alfonsino": {
         "splatzones": {
-            "total": 29,
+            "total": 30,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 11,
             "dec2015": 12,
-            "jan2016": 6
+            "jan2016": 7
         },
         "towercontrol": {
             "total": 25,
@@ -367,13 +367,13 @@
             "jan2016": 5
         },
         "rainmaker": {
-            "total": 18,
+            "total": 19,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 9,
             "dec2015": 6,
-            "jan2016": 3
+            "jan2016": 4
         }
     },
     "Mahi-Mahi Resort": {
@@ -387,33 +387,33 @@
             "jan2016": 6
         },
         "towercontrol": {
-            "total": 16,
+            "total": 17,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 12,
-            "jan2016": 4
+            "jan2016": 5
         },
         "rainmaker": {
-            "total": 16,
+            "total": 17,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 12,
-            "jan2016": 4
+            "jan2016": 5
         }
     },
     "Piranha Pit": {
         "splatzones": {
-            "total": 14,
+            "total": 16,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 6,
-            "jan2016": 8
+            "jan2016": 10
         },
         "towercontrol": {
             "total": 9,
@@ -463,5 +463,5 @@
             "jan2016": 0
         }
     },
-    "lastUpdate": "2016-01-19T09:31:21.083Z"
+    "lastUpdate": "2016-01-19T16:19:50.577Z"
 }
