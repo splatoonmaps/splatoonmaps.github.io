@@ -45,7 +45,7 @@ $(function() {
     }
 
     //delete last element in Array (don't need it there)
-    newData = newData.splice(0, newData.length-2);
+    newData = newData.splice(0, newData.length-1);
 
     update(newData);
   });
