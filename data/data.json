@@ -19,13 +19,13 @@
             "jan2016": 9
         },
         "rainmaker": {
-            "total": 71,
+            "total": 72,
             "aug2015": 8,
             "sep2015": 12,
             "oct2015": 18,
             "nov2015": 17,
             "dec2015": 11,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Port Mackerel": {
@@ -48,13 +48,13 @@
             "jan2016": 0
         },
         "rainmaker": {
-            "total": 55,
+            "total": 56,
             "aug2015": 7,
             "sep2015": 13,
             "oct2015": 9,
             "nov2015": 11,
             "dec2015": 9,
-            "jan2016": 6
+            "jan2016": 7
         }
     },
     "Saltspray Rig": {
@@ -97,13 +97,13 @@
             "jan2016": 9
         },
         "towercontrol": {
-            "total": 68,
+            "total": 69,
             "aug2015": 7,
             "sep2015": 7,
             "oct2015": 19,
             "nov2015": 13,
             "dec2015": 13,
-            "jan2016": 9
+            "jan2016": 10
         },
         "rainmaker": {
             "total": 27,
@@ -126,13 +126,13 @@
             "jan2016": 11
         },
         "towercontrol": {
-            "total": 53,
+            "total": 54,
             "aug2015": 5,
             "sep2015": 16,
             "oct2015": 6,
             "nov2015": 7,
             "dec2015": 13,
-            "jan2016": 6
+            "jan2016": 7
         },
         "rainmaker": {
             "total": 49,
@@ -155,13 +155,13 @@
             "jan2016": 0
         },
         "towercontrol": {
-            "total": 36,
+            "total": 37,
             "aug2015": 10,
             "sep2015": 4,
             "oct2015": 7,
             "nov2015": 7,
             "dec2015": 7,
-            "jan2016": 1
+            "jan2016": 2
         },
         "rainmaker": {
             "total": 65,
@@ -175,13 +175,13 @@
     },
     "Kelp Dome": {
         "splatzones": {
-            "total": 68,
+            "total": 69,
             "aug2015": 7,
             "sep2015": 11,
             "oct2015": 11,
             "nov2015": 13,
             "dec2015": 15,
-            "jan2016": 11
+            "jan2016": 12
         },
         "towercontrol": {
             "total": 49,
@@ -251,13 +251,13 @@
             "jan2016": 7
         },
         "rainmaker": {
-            "total": 46,
+            "total": 47,
             "aug2015": 7,
             "sep2015": 13,
             "oct2015": 14,
             "nov2015": 4,
             "dec2015": 3,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Camp Triggerfish": {
@@ -280,24 +280,24 @@
             "jan2016": 5
         },
         "rainmaker": {
-            "total": 74,
+            "total": 75,
             "aug2015": 8,
             "sep2015": 15,
             "oct2015": 18,
             "nov2015": 14,
             "dec2015": 11,
-            "jan2016": 8
+            "jan2016": 9
         }
     },
     "Flounder Heights": {
         "splatzones": {
-            "total": 54,
+            "total": 55,
             "aug2015": 10,
             "sep2015": 12,
             "oct2015": 8,
             "nov2015": 9,
             "dec2015": 9,
-            "jan2016": 6
+            "jan2016": 7
         },
         "towercontrol": {
             "total": 48,
@@ -309,24 +309,24 @@
             "jan2016": 7
         },
         "rainmaker": {
-            "total": 81,
+            "total": 82,
             "aug2015": 9,
             "sep2015": 16,
             "oct2015": 21,
             "nov2015": 15,
             "dec2015": 13,
-            "jan2016": 7
+            "jan2016": 8
         }
     },
     "Hammerhead Bridge": {
         "splatzones": {
-            "total": 49,
+            "total": 50,
             "aug2015": 0,
             "sep2015": 6,
             "oct2015": 13,
             "nov2015": 14,
             "dec2015": 9,
-            "jan2016": 7
+            "jan2016": 8
         },
         "towercontrol": {
             "total": 55,
@@ -367,13 +367,13 @@
             "jan2016": 7
         },
         "rainmaker": {
-            "total": 20,
+            "total": 21,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 9,
             "dec2015": 6,
-            "jan2016": 5
+            "jan2016": 6
         }
     },
     "Mahi-Mahi Resort": {
@@ -416,13 +416,13 @@
             "jan2016": 11
         },
         "towercontrol": {
-            "total": 10,
+            "total": 11,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 4,
-            "jan2016": 6
+            "jan2016": 7
         },
         "rainmaker": {
             "total": 9,
@@ -436,13 +436,13 @@
     },
     "Ancho-V Games": {
         "splatzones": {
-            "total": 5,
+            "total": 6,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
             "nov2015": 0,
             "dec2015": 0,
-            "jan2016": 5
+            "jan2016": 6
         },
         "towercontrol": {
             "total": 4,
@@ -463,5 +463,5 @@
             "jan2016": 3
         }
     },
-    "lastUpdate": "2016-01-24T15:35:58.340Z"
+    "lastUpdate": "2016-01-25T20:57:30.187Z"
 }
