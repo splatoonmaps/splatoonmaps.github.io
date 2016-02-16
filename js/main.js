@@ -112,13 +112,13 @@ function buildGraph(a,b,c,d){
     if(a != 0 || b != 0 || c !=0) {
       return '<div class="graph-small">' +
               '<div class="bar splatzones" style="width:' + (a/(a+b+c))*100 + '%;">' +
-                '<a href="" data-toggle="tooltip" data-placement="top" title="Splat Zones"></a>' +
+                '<a href="" data-toggle="tooltip" data-placement="top" title="Splat Zone rotations: ' + a + '"></a>' +
               '</div>' +
               '<div class="bar towercontrol" style="width:' + (b/(a+b+c))*100 + '%;">' +
-                '<a href="" data-toggle="tooltip" data-placement="top" title="Tower Control"></a>' +
+                '<a href="" data-toggle="tooltip" data-placement="top" title="Tower Control rotations: ' + b + '"></a>' +
               '</div>' +
               '<div class="bar rainmaker" style="width:' + (c/(a+b+c))*100 + '%;">' +
-                '<a href="" data-toggle="tooltip" data-placement="top" title="Rainmaker"></a>' +
+                '<a href="" data-toggle="tooltip" data-placement="top" title="Rainmaker rotations: ' + c + '"></a>' +
               '</div>' +
              '</div>';
     } else {
