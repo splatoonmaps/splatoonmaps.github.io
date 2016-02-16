@@ -5,8 +5,8 @@ Displays statistics of Splatoon's Map/Game Mode frequency.
 ### To Do
 - [ ] add a favicon
 - [ ] display larger tooltips
-  - [ ] disable <a>-Elements
-- [ ] display total number of rotations on :hover
+  - [ ] disable a-Elements
+- [x] display total number of rotations on :hover
 - [ ] make maps sortable (by Game mode)
   - [ ] think about ui/design in general
   - [ ] let user choose between view by month/view by map
