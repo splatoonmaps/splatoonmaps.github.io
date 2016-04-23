@@ -10,3 +10,4 @@ Displays statistics of Splatoon's Map/Game Mode frequency.
   - [ ] let user choose between view by month/view by map
 - [ ] display combined number of map rotations per month
 - [x] add additional data (might have to add Splatfest by hand)
+- [x] display Turf War data
