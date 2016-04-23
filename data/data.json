@@ -1,5 +1,17 @@
 {
     "Urchin Underpass": {
+        "turfwar": {
+            "total": 237,
+            "aug2015": 28,
+            "sep2015": 34,
+            "oct2015": 30,
+            "nov2015": 29,
+            "dec2015": 27,
+            "jan2016": 27,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 65,
             "aug2015": 12,
@@ -38,6 +50,18 @@
         }
     },
     "Port Mackerel": {
+        "turfwar": {
+            "total": 217,
+            "aug2015": 27,
+            "sep2015": 26,
+            "oct2015": 31,
+            "nov2015": 26,
+            "dec2015": 25,
+            "jan2016": 22,
+            "feb2016": 21,
+            "mar2016": 22,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 74,
             "aug2015": 10,
@@ -76,6 +100,18 @@
         }
     },
     "Saltspray Rig": {
+        "turfwar": {
+            "total": 231,
+            "aug2015": 29,
+            "sep2015": 30,
+            "oct2015": 32,
+            "nov2015": 27,
+            "dec2015": 27,
+            "jan2016": 24,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 109,
             "aug2015": 14,
@@ -114,6 +150,18 @@
         }
     },
     "Blackbelly Skatepark": {
+        "turfwar": {
+            "total": 226,
+            "aug2015": 26,
+            "sep2015": 30,
+            "oct2015": 30,
+            "nov2015": 30,
+            "dec2015": 24,
+            "jan2016": 25,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 16
+        },
         "splatzones": {
             "total": 86,
             "aug2015": 7,
@@ -152,6 +200,18 @@
         }
     },
     "Walleye Warehouse": {
+        "turfwar": {
+            "total": 232,
+            "aug2015": 28,
+            "sep2015": 32,
+            "oct2015": 30,
+            "nov2015": 27,
+            "dec2015": 29,
+            "jan2016": 24,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 119,
             "aug2015": 10,
@@ -190,6 +250,18 @@
         }
     },
     "Arowana Mall": {
+        "turfwar": {
+            "total": 210,
+            "aug2015": 32,
+            "sep2015": 30,
+            "oct2015": 30,
+            "nov2015": 29,
+            "dec2015": 18,
+            "jan2016": 10,
+            "feb2016": 21,
+            "mar2016": 24,
+            "apr2016": 16
+        },
         "splatzones": {
             "total": 60,
             "aug2015": 8,
@@ -228,6 +300,18 @@
         }
     },
     "Kelp Dome": {
+        "turfwar": {
+            "total": 224,
+            "aug2015": 28,
+            "sep2015": 28,
+            "oct2015": 31,
+            "nov2015": 28,
+            "dec2015": 25,
+            "jan2016": 23,
+            "feb2016": 21,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 93,
             "aug2015": 7,
@@ -266,6 +350,18 @@
         }
     },
     "Bluefin Depot": {
+        "turfwar": {
+            "total": 222,
+            "aug2015": 28,
+            "sep2015": 27,
+            "oct2015": 31,
+            "nov2015": 28,
+            "dec2015": 24,
+            "jan2016": 22,
+            "feb2016": 22,
+            "mar2016": 24,
+            "apr2016": 16
+        },
         "splatzones": {
             "total": 53,
             "aug2015": 9,
@@ -304,6 +400,18 @@
         }
     },
     "Moray Towers": {
+        "turfwar": {
+            "total": 217,
+            "aug2015": 29,
+            "sep2015": 26,
+            "oct2015": 27,
+            "nov2015": 26,
+            "dec2015": 24,
+            "jan2016": 23,
+            "feb2016": 22,
+            "mar2016": 24,
+            "apr2016": 16
+        },
         "splatzones": {
             "total": 74,
             "aug2015": 11,
@@ -342,6 +450,18 @@
         }
     },
     "Camp Triggerfish": {
+        "turfwar": {
+            "total": 199,
+            "aug2015": 0,
+            "sep2015": 31,
+            "oct2015": 31,
+            "nov2015": 25,
+            "dec2015": 26,
+            "jan2016": 23,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 18
+        },
         "splatzones": {
             "total": 77,
             "aug2015": 0,
@@ -380,6 +500,18 @@
         }
     },
     "Flounder Heights": {
+        "turfwar": {
+            "total": 231,
+            "aug2015": 29,
+            "sep2015": 39,
+            "oct2015": 32,
+            "nov2015": 26,
+            "dec2015": 22,
+            "jan2016": 23,
+            "feb2016": 21,
+            "mar2016": 22,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 82,
             "aug2015": 10,
@@ -418,6 +550,18 @@
         }
     },
     "Hammerhead Bridge": {
+        "turfwar": {
+            "total": 188,
+            "aug2015": 0,
+            "sep2015": 23,
+            "oct2015": 31,
+            "nov2015": 26,
+            "dec2015": 25,
+            "jan2016": 22,
+            "feb2016": 21,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 79,
             "aug2015": 0,
@@ -456,6 +600,18 @@
         }
     },
     "Museum d'Alfonsino": {
+        "turfwar": {
+            "total": 139,
+            "aug2015": 0,
+            "sep2015": 0,
+            "oct2015": 0,
+            "nov2015": 33,
+            "dec2015": 24,
+            "jan2016": 21,
+            "feb2016": 22,
+            "mar2016": 23,
+            "apr2016": 16
+        },
         "splatzones": {
             "total": 80,
             "aug2015": 0,
@@ -494,6 +650,18 @@
         }
     },
     "Mahi-Mahi Resort": {
+        "turfwar": {
+            "total": 121,
+            "aug2015": 0,
+            "sep2015": 0,
+            "oct2015": 0,
+            "nov2015": 0,
+            "dec2015": 37,
+            "jan2016": 25,
+            "feb2016": 20,
+            "mar2016": 22,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 49,
             "aug2015": 0,
@@ -532,6 +700,18 @@
         }
     },
     "Piranha Pit": {
+        "turfwar": {
+            "total": 102,
+            "aug2015": 0,
+            "sep2015": 0,
+            "oct2015": 0,
+            "nov2015": 0,
+            "dec2015": 13,
+            "jan2016": 30,
+            "feb2016": 21,
+            "mar2016": 21,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 40,
             "aug2015": 0,
@@ -570,6 +750,18 @@
         }
     },
     "Ancho-V Games": {
+        "turfwar": {
+            "total": 80,
+            "aug2015": 0,
+            "sep2015": 0,
+            "oct2015": 0,
+            "nov2015": 0,
+            "dec2015": 0,
+            "jan2016": 26,
+            "feb2016": 14,
+            "mar2016": 23,
+            "apr2016": 17
+        },
         "splatzones": {
             "total": 36,
             "aug2015": 0,
@@ -607,5 +799,5 @@
             "apr2016": 4
         }
     },
-    "lastUpdate": "2016-04-23T07:58:20.412Z"
+    "lastUpdate": "2016-04-23T08:20:24.429Z"
 }
