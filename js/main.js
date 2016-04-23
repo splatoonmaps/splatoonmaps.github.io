@@ -2,6 +2,7 @@ $(function() {
 
   var newData = [];
   var mapNames = [];
+  var turfWar = [];
   var splatZones = [];
   var towerControl = [];
   var rainMaker = [];
@@ -25,7 +26,9 @@ $(function() {
         mapNames.push(key);
 
         for (var prop in obj) {
-          if (prop == "splatzones") {
+          if (prop == "turfwar") {
+            turfWar.push(obj[prop]);
+          } else if (prop == "splatzones") {
             splatZones.push(obj[prop]);
           } else if (prop == "towercontrol") {
             towerControl.push(obj[prop]);
@@ -38,6 +41,7 @@ $(function() {
     for (var i = 0; i < mapNames.length; i++) {
       newData[i] = {
         name         : mapNames[i],
+        turfwar      : turfWar[i],
         splatzones   : splatZones[i],
         towercontrol : towerControl[i],
         rainmaker    : rainMaker[i]
