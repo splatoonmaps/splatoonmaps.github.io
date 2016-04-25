@@ -37,7 +37,7 @@
             "apr2016": 5
         },
         "rainmaker": {
-            "total": 97,
+            "total": 98,
             "aug2015": 8,
             "sep2015": 12,
             "oct2015": 18,
@@ -46,7 +46,7 @@
             "jan2016": 9,
             "feb2016": 8,
             "mar2016": 9,
-            "apr2016": 5
+            "apr2016": 6
         }
     },
     "Port Mackerel": {
@@ -437,7 +437,7 @@
             "apr2016": 8
         },
         "rainmaker": {
-            "total": 73,
+            "total": 74,
             "aug2015": 7,
             "sep2015": 13,
             "oct2015": 14,
@@ -446,7 +446,7 @@
             "jan2016": 8,
             "feb2016": 7,
             "mar2016": 10,
-            "apr2016": 7
+            "apr2016": 8
         }
     },
     "Camp Triggerfish": {
@@ -601,7 +601,7 @@
     },
     "Museum d'Alfonsino": {
         "turfwar": {
-            "total": 139,
+            "total": 140,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
@@ -610,7 +610,7 @@
             "jan2016": 21,
             "feb2016": 22,
             "mar2016": 23,
-            "apr2016": 16
+            "apr2016": 17
         },
         "splatzones": {
             "total": 80,
@@ -651,7 +651,7 @@
     },
     "Mahi-Mahi Resort": {
         "turfwar": {
-            "total": 121,
+            "total": 122,
             "aug2015": 0,
             "sep2015": 0,
             "oct2015": 0,
@@ -660,7 +660,7 @@
             "jan2016": 25,
             "feb2016": 20,
             "mar2016": 22,
-            "apr2016": 17
+            "apr2016": 18
         },
         "splatzones": {
             "total": 49,
@@ -799,5 +799,5 @@
             "apr2016": 4
         }
     },
-    "lastUpdate": "2016-04-23T08:20:24.429Z"
+    "lastUpdate": "2016-04-25T18:47:43.702Z"
 }
