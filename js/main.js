@@ -76,6 +76,13 @@ $(function() {
               .append('<h2>' + data[i].name + '</h2>')
               .append('<img src="img/' + data[i].name.toLowerCase().replace(/\s+/g, '').replace(/[^a-zA-Z-]/g, '') + '.jpg" title="' + data[i].name + '">')
             )
+            //just display latest rotations
+            .append($('<div>')
+              .append('<p>Turf War: ' + data[i].turfwar.latest + '</p>')
+              .append('Splat Zones: ' + data[i].splatzones.latest + '</p>')
+              .append('Tower Control: ' + data[i].towercontrol.latest + '</p>')
+              .append('Rainmaker: ' + data[i].rainmaker.latest + '</p>')
+            )
             //overall rotation graph
             .append($('<div class="graph-overall">')
               .append('<div class="graph-name">Overall</div>')
