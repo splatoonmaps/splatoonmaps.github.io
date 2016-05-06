@@ -78,10 +78,10 @@ $(function() {
             )
             //just display latest rotations
             .append($('<div>')
-              .append('<p>Turf War: ' + data[i].turfwar.latest + '</p>')
-              .append('Splat Zones: ' + data[i].splatzones.latest + '</p>')
-              .append('Tower Control: ' + data[i].towercontrol.latest + '</p>')
-              .append('Rainmaker: ' + data[i].rainmaker.latest + '</p>')
+              .append('<p>Turf War: ' + convertTime(data[i].turfwar.latest) + '</p>')
+              .append('Splat Zones: ' + convertTime(data[i].splatzones.latest) + '</p>')
+              .append('Tower Control: ' + convertTime(data[i].towercontrol.latest) + '</p>')
+              .append('Rainmaker: ' + convertTime(data[i].rainmaker.latest) + '</p>')
             )
             //overall rotation graph
             .append($('<div class="graph-overall">')
@@ -121,10 +121,9 @@ $(function() {
   }
 });
 
+//build graph if any rotation was found
+//if not, display empty graph
 function buildGraph(a,b,c,d){
-  //build graph if any rotation was found
-  //if not, display empty graph
-  //To Do: clean that part up, take the array from each map instead (data[i])
   if(d == "s"){
     if(a != 0 || b != 0 || c !=0) {
       return '<div class="graph-small">' +
@@ -162,4 +161,12 @@ function buildGraph(a,b,c,d){
              '</div>';
     }
   }
+};
+
+//convert Time
+function convertTime(isoString){
+  var date = new Date(isoString);
+  date = date.toString();
+
+  return date;
 };
