@@ -56,7 +56,6 @@ $(function() {
 
   //Update Schtuff (need to implement d3.js for graph stuff at some point)
   function update(data) {
-    console.log(data);
 
     //insert lastUpdate into HTML
     $('.last-update').append('<strong>Last update</strong>' + lastUpdate);
@@ -66,7 +65,6 @@ $(function() {
 
       //Combine all rotations for each Map
       var dataTotal = data[i].splatzones.total + data[i].towercontrol.total + data[i].rainmaker.total;
-
 
       //To-Do: needs some clean up
       $('.content')
