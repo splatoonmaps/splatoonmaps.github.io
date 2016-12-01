@@ -117,7 +117,8 @@ $(function() {
               .append(buildGraph(data[i].splatzones.oct2016,data[i].towercontrol.oct2016,data[i].rainmaker.oct2016,"s"))
               .append('<div class="graph-name">November 2016</div>')
               .append(buildGraph(data[i].splatzones.nov2016,data[i].towercontrol.nov2016,data[i].rainmaker.nov2016,"s"))
-
+              .append('<div class="graph-name">November 2016</div>')
+              .append(buildGraph(data[i].splatzones.nov2016,data[i].towercontrol.nov2016,data[i].rainmaker.nov2016,"s"))
             )
           )
       )
